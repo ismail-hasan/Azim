@@ -1,0 +1,10 @@
+.featcher-main {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  padding: 20px 80px;
+  text-align: center;
+}
+.featcher-card {
+  border: 2px solid red;
+}

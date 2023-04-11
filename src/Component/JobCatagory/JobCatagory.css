@@ -1,0 +1,15 @@
+.job-catagory{
+    text-align: center;
+}
+
+.main-job {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding: 0 100px;
+  gap: 30px;
+}
+
+.job-card {
+  background-color: rgb(128, 125, 125);
+  padding: 20px 60px;
+}
